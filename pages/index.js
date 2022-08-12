@@ -78,13 +78,6 @@ const Home = () => (
           Stereo V-SLAM (Simultaneously Localization and Mapping, based on
           vision), computer vision, embedded system, ...
         </Paragraph>
-        <Box align="center" my={4}>
-          <NextLink href="/works" passHref scroll={false}>
-            <Button rightIcon={<ChevronRightIcon />} colorScheme="teal">
-              My portfolio
-            </Button>
-          </NextLink>
-        </Box>
       </Section>
 
       <Section delay={0.2}>
@@ -150,14 +143,6 @@ const Home = () => (
             </Link>
           </ListItem>
         </List>
-
-        <Box align="center" my={4}>
-          <NextLink href="/posts" passHref scroll={false}>
-            <Button rightIcon={<ChevronRightIcon />} colorScheme="teal">
-              Popular posts
-            </Button>
-          </NextLink>
-        </Box>
       </Section>
     </Container>
   </Layout>
