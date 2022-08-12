@@ -1,4 +1,4 @@
-import NextLink from 'next/link'
+// import NextLink from 'next/link'
 import {
   Link,
   Container,
@@ -10,7 +10,7 @@ import {
   useColorModeValue,
   chakra
 } from '@chakra-ui/react'
-import { ChevronRightIcon } from '@chakra-ui/icons'
+// import { ChevronRightIcon } from '@chakra-ui/icons'
 import Paragraph from '../components/paragraph'
 import { BioSection, BioYear } from '../components/bio'
 import Layout from '../components/layouts/article'
