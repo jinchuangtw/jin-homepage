@@ -103,7 +103,7 @@ const Home = () => (
           Hobbies
         </Heading>
         <Paragraph>
-          Music, art, reading. Recently diving into Neovim. Take a look at my{' '}
+          Music, art, writing. Recently diving into Neovim. Take a look at my{' '}
           <Link href="https://www.pixiv.net/users/15519192" target="_blank">
             drawings
           </Link>{' '}
