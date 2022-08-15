@@ -1,4 +1,4 @@
-# Jin's Homepage
+# Jin's Portfolio
 [https://jin-homepage.vercel.app](https://jin-homepage.vercel.app)
 
 ## Powered by
