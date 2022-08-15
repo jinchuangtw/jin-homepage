@@ -33,7 +33,7 @@ const Home = () => (
         bg={useColorModeValue('whiteAlpha.500', 'whiteAlpha.200')}
         css={{ backdropFilter: 'blur(10px)' }}
       >
-        Hello, welcome to my homepage!
+        Hello, welcome to my portfolio!
       </Box>
 
       <Box display={{ md: 'flex' }}>
@@ -41,7 +41,7 @@ const Home = () => (
           <Heading as="h2" variant="page-title">
             Jin Chuang
           </Heading>
-          <p>Graduate student, mainly focus on V-SLAM</p>
+          <p>Artwork, sound track and writing.</p>
         </Box>
         <Box
           flexShrink={0}
@@ -72,11 +72,10 @@ const Home = () => (
 
       <Section delay={0.1}>
         <Heading as="h3" variant="section-title">
-          Research
+          Space
         </Heading>
         <Paragraph>
-          Stereo V-SLAM (Simultaneously Localization and Mapping, based on
-          vision), computer vision, embedded system, ...
+          ...
         </Paragraph>
       </Section>
 
